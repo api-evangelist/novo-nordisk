@@ -1,6 +1,16 @@
 aid: novo-nordisk
-url: https://raw.githubusercontent.com/api-evangelist/novo-nordisk/refs/heads/main/apis.yml
 name: Novo Nordisk
+description: >-
+  Novo Nordisk A/S is a Danish multinational pharmaceutical company
+  headquartered in Bagsværd, Denmark, and the world leader in diabetes
+  care. The company also develops treatments for obesity, rare blood
+  disorders, and growth-hormone therapy, including its widely known
+  GLP-1 medicines Ozempic, Wegovy, and Rybelsus. Novo Nordisk does not
+  publish a public commercial developer API. The company maintains a
+  research GitHub organization (novonordisk-research) that releases
+  open-source scientific computing libraries and an SDK for the Waters
+  Empower Web API (OptiHPLCHandler) used in pharmaceutical analytical
+  chemistry workflows.
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
@@ -8,11 +18,19 @@ tags:
   - Healthcare
   - Biotechnology
   - Diabetes
-description: 'A Danish multinational pharmaceutical company and the world leader in diabetes care. Also develops treatments for obesity, rare blood disorders, and growth hormone therapy, known for blockbuster drugs Ozempic and Wegovy.'
+  - Obesity
+  - Open Source Research
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/novo-nordisk/refs/heads/main/apis.yml
 created: '2026-05-05'
-modified: '2026-05-05'
+modified: '2026-05-16'
 specificationVersion: '0.19'
 apis: []
 common:
   - type: Website
     url: https://www.novonordisk.com/
+  - type: GitHubOrganization
+    url: https://github.com/novonordisk-research
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

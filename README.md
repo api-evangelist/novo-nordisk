@@ -1,6 +1,6 @@
 # Novo Nordisk (novo-nordisk)
 
-A Danish multinational pharmaceutical company and the world leader in diabetes care. Also develops treatments for obesity, rare blood disorders, and growth hormone therapy, known for blockbuster drugs Ozempic and Wegovy.
+Novo Nordisk A/S is a Danish multinational pharmaceutical company headquartered in Bagsværd, Denmark, and the world leader in diabetes care. The company also develops treatments for obesity, rare blood disorders, and growth-hormone therapy, including its widely known GLP-1 medicines Ozempic, Wegovy, and Rybelsus. Novo Nordisk does not publish a public commercial developer API. The company maintains a research GitHub organization (novonordisk-research) that releases open-source scientific computing libraries and an SDK for the Waters Empower Web API (OptiHPLCHandler) used in pharmaceutical analytical chemistry workflows.
 
 **URL:** [https://www.novonordisk.com/](https://www.novonordisk.com/)
 
@@ -8,10 +8,14 @@ A Danish multinational pharmaceutical company and the world leader in diabetes c
 
 ## Tags:
 
- - Pharmaceutical, Healthcare, Biotechnology, Diabetes
+ - Pharmaceutical, Healthcare, Biotechnology, Diabetes, Obesity, Open Source Research
+
+## Common Properties
+
+- **Website:** https://www.novonordisk.com/
+- **GitHubOrganization:** https://github.com/novonordisk-research
 
 ## Timestamps
 
 - **Created:** 2026-05-05
-- **Modified:** 2026-05-05
-
+- **Modified:** 2026-05-16
