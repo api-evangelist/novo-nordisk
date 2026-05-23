@@ -33,6 +33,9 @@ common:
     url: https://www.novonordisk.com/
   - type: GitHubOrganization
     url: https://github.com/novonordisk-research
+  - type: PartnerPortal
+    url: https://digitalpartnerships.novonordisk.com/
+    description: Novo Nordisk Digital Partnerships portal — the public landing for would-be technology / data partners. No open APIs; partnership outreach only (the `developer.novonordisk.com` subdomain 301s here).
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
