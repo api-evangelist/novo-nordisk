@@ -12,7 +12,18 @@ description: >-
   Empower Web API (OptiHPLCHandler) used in pharmaceutical analytical
   chemistry workflows.
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/novo-nordisk.png
 tags:
   - Pharmaceutical
   - Healthcare
